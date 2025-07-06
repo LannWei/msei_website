@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "title": "Services",
+    "description": "Academic services and professional activities"
+  },
+  "sections": {
+    "programcommittee": {
+      "subsections": [
+        {
+          "name": "Committee",
+          "data": {
+            "name": "International Conference on Machine Learning (ICML)",
+            "period": "2023 - Present"
+          }
+        },
+        {
+          "name": "Committee",
+          "data": {
+            "name": "Neural Information Processing Systems (NeurIPS)",
+            "period": "2022 - Present"
+          }
+        },
+        {
+          "name": "Committee",
+          "data": {
+            "name": "International Conference on Computer Vision (ICCV)",
+            "period": "2023 - Present"
+          }
+        },
+        {
+          "name": "Committee",
+          "data": {
+            "name": "Computer Vision and Pattern Recognition (CVPR)",
+            "period": "2022 - Present"
+          }
+        },
+        {
+          "name": "Committee",
+          "data": {
+            "name": "International Conference on Robotics and Automation (ICRA)",
+            "period": "2024 - Present"
+          }
+        }
+      ]
+    },
+    "journaleditorial": {
+      "subsections": [
+        {
+          "name": "Journal",
+          "data": {
+            "name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+            "role": "Associate Editor",
+            "period": "2023 - Present"
+          }
+        },
+        {
+          "name": "Journal",
+          "data": {
+            "name": "International Journal of Computer Vision",
+            "role": "Editorial Board Member",
+            "period": "2022 - Present"
+          }
+        },
+        {
+          "name": "Journal",
+          "data": {
+            "name": "Machine Learning",
+            "role": "Guest Editor",
+            "period": "2024 - Present"
+          }
+        },
+        {
+          "name": "Journal",
+          "data": {
+            "name": "IEEE Robotics and Automation Letters",
+            "role": "Associate Editor",
+            "period": "2023 - Present"
+          }
+        }
+      ]
+    },
+    "journal&conferencereviewer": {
+      "subsections": [
+        {
+          "name": "Journal Reviewer",
+          "data": {
+            "name": "Nature Machine Intelligence",
+            "period": "2022 - Present"
+          }
+        },
+        {
+          "name": "Journal Reviewer",
+          "data": {
+            "name": "Science Robotics",
+            "period": "2023 - Present"
+          }
+        },
+        {
+          "name": "Journal Reviewer",
+          "data": {
+            "name": "IEEE Transactions on Medical Imaging",
+            "period": "2022 - Present"
+          }
+        },
+        {
+          "name": "Conference Reviewer",
+          "data": {
+            "name": "AAAI Conference on Artificial Intelligence",
+            "period": "2023 - Present"
+          }
+        },
+        {
+          "name": "Conference Reviewer",
+          "data": {
+            "name": "International Joint Conference on Artificial Intelligence (IJCAI)",
+            "period": "2022 - Present"
+          }
+        },
+        {
+          "name": "Conference Reviewer",
+          "data": {
+            "name": "European Conference on Computer Vision (ECCV)",
+            "period": "2023 - Present"
+          }
+        }
+      ]
+    }
+  },
+  "lastUpdated": "2025-07-05T16:22:17.114Z"
+}

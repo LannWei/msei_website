@@ -1,0 +1,35 @@
+{
+  "slug": "deep-learning-survey",
+  "title": "A Comprehensive Survey of Deep Learning Techniques",
+  "authors": [
+    "Alex Zhang",
+    "Li Wei",
+    "Wang Yu"
+  ],
+  "keywords": [
+    "Deep Learning",
+    "Neural Networks",
+    "Survey",
+    "Computer Vision"
+  ],
+  "date": "2024-01-15",
+  "abstract": "## Abstract\n\nThis paper provides a comprehensive survey of deep learning techniques, covering fundamental concepts, architectures, and applications in computer vision, natural language processing, and...",
+  "filePath": "deep-learning-survey.md",
+  "content": "\n# A Comprehensive Survey of Deep Learning Techniques\n\n## Abstract\n\nThis paper provides a comprehensive survey of deep learning techniques, covering fundamental concepts, architectures, and applications in computer vision, natural language processing, and other domains.\n\n## Introduction\n\nDeep learning has revolutionized artificial intelligence in recent years, achieving remarkable success across various domains including computer vision, natural language processing, and robotics.\n\n## Methodology\n\nOur survey covers the following key areas:\n\n### 1. Convolutional Neural Networks (CNNs)\n- Architecture design principles\n- Popular architectures (ResNet, VGG, EfficientNet)\n- Applications in image classification and object detection\n\n### 2. Recurrent Neural Networks (RNNs)\n- LSTM and GRU variants\n- Applications in sequence modeling\n- Attention mechanisms\n\n### 3. Transformer Architecture\n- Self-attention mechanisms\n- Applications in NLP and vision\n- Recent developments and variants\n\n## Results\n\nWe analyze over 200 papers published in top-tier conferences and journals, providing insights into:\n\n- Performance comparisons across different architectures\n- Computational efficiency considerations\n- Real-world applications and limitations\n\n## Conclusion\n\nDeep learning continues to evolve rapidly, with new architectures and techniques emerging regularly. This survey provides a foundation for understanding current state-of-the-art approaches and identifying future research directions.\n\n## References\n\n1. LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. Nature, 521(7553), 436-444.\n2. Vaswani, A., et al. (2017). Attention is all you need. Advances in neural information processing systems, 30.\n3. He, K., et al. (2016). Deep residual learning for image recognition. Proceedings of the IEEE conference on computer vision and pattern recognition. ",
+  "metadata": {
+    "title": "A Comprehensive Survey of Deep Learning Techniques",
+    "authors": [
+      "Alex Zhang",
+      "Li Wei",
+      "Wang Yu"
+    ],
+    "keywords": [
+      "Deep Learning",
+      "Neural Networks",
+      "Survey",
+      "Computer Vision"
+    ],
+    "date": "2024-01-15",
+    "slug": "deep-learning-survey"
+  }
+}

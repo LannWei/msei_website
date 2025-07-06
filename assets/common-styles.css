@@ -1,0 +1,426 @@
+/* 公共样式文件 - 提取自各个Vue页面的重复样式 */
+
+/* ===== 基础布局样式 ===== */
+.section-block {
+  margin-bottom: 2.5rem;
+}
+
+.section-title {
+  font-size: 1.35rem;
+  font-weight: 700;
+  margin-bottom: 1.2rem;
+  color: #222;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 0.3em;
+}
+
+.section-description {
+  color: #6B7280;
+  font-size: 1.08rem;
+  margin-bottom: 0.5em;
+  text-align: justify;
+  hyphens: auto;  
+  word-spacing: -0.05em; 
+}
+
+/* ===== 列表样式 ===== */
+.section-list {
+  list-style: disc inside;
+  color: #222;
+  font-size: 1.05rem;
+  margin: 1rem 0 0 0;
+  padding-left: 0;
+}
+
+.section-list li {
+  margin-bottom: 0.3em;
+  line-height: 1.7;
+  text-align: justify;
+  hyphens: auto;  
+  word-spacing: -0.05em; 
+}
+
+/* ===== 卡片样式 ===== */
+.card-base {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px 0 #f0f1f2;
+  transition: box-shadow 0.2s;
+}
+
+.card-base:hover {
+  box-shadow: 0 4px 16px 0 #e0e2e4;
+}
+
+.card-hover-lift {
+  transition: all 0.2s;
+}
+
+.card-hover-lift:hover {
+  transform: translateY(-1px);
+}
+
+/* ===== 标题样式 ===== */
+.title-primary {
+  font-size: 1.08rem;
+  font-weight: 600;
+  color: #222;
+  margin-bottom: 0.2em;
+  line-height: 1.4;
+}
+
+.title-secondary {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 1.2rem;
+  color: #222;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 0.3em;
+}
+
+/* ===== 文本样式 ===== */
+.text-primary {
+  color: #222;
+  font-size: 1.01em;
+  line-height: 1.7;
+  text-align: justify;
+  hyphens: auto; 
+  word-spacing: -0.05em;
+}
+
+.text-secondary {
+  color: #444;
+  font-size: 0.97em;
+  line-height: 1.6;
+  text-align: justify;
+  hyphens: auto;  
+  word-spacing: -0.05em; 
+}
+
+.text-muted {
+  color: #6B7280;
+  font-size: 0.97em;
+}
+
+.text-accent {
+  color: #10A37F;
+  font-weight: 500;
+}
+
+/* ===== 链接样式 ===== */
+.link-primary {
+  color: #10A37F;
+  text-decoration: underline;
+  font-size: 0.98em;
+  margin-left: 0.5em;
+}
+
+.link-primary:hover {
+  color: #0E8D6D;
+}
+
+/* ===== 按钮样式 ===== */
+.btn-clear {
+  background: none;
+  border: none;
+  color: #10A37F;
+  cursor: pointer;
+  padding: 0;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: background 0.2s;
+}
+
+.btn-clear:hover {
+  background: rgba(16,163,127,0.2);
+}
+
+/* ===== 徽章样式 ===== */
+.badge-accent {
+  display: inline-flex;
+  align-items: center;
+  background: rgba(16,163,127,0.1);
+  border: 1px solid #10A37F;
+  border-radius: 6px;
+  padding: 0.5em 0.8em;
+  gap: 0.5em;
+}
+
+.badge-text {
+  color: #10A37F;
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+
+/* ===== 信息块样式 ===== */
+.info-block {
+  margin-bottom: 1.5rem;
+  background: rgba(16,163,127,0.06);
+  border-radius: 8px;
+  padding: 1.1em 1.5em 1.1em 1.2em;
+  max-width: 65ch;
+}
+
+.info-title {
+  font-size: 1.04rem;
+  font-weight: 600;
+  color: #10A37F;
+  margin-bottom: 0.3em;
+}
+
+.info-text {
+  color: #444;
+  font-size: 1.01rem;
+  line-height: 1.6;
+}
+
+/* ===== 列表项样式 ===== */
+.list-item-base {
+  margin-bottom: 0.3em;
+  list-style: disc;
+  text-align: justify;
+  hyphens: auto;  
+  word-spacing: -0.05em; 
+}
+
+.list-item-flex {
+  display: flex;
+  gap: 1em;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+
+/* ===== 头像样式 ===== */
+.avatar-circle {
+  width: 92px;
+  height: 92px;
+  border-radius: 50%;
+  object-fit: cover;
+  background: #f7f8fa;
+}
+
+.avatar-square {
+  width: 180px;
+  height: 180px;
+  border-radius: 10px;
+  object-fit: cover;
+  background: #f7f8fa;
+}
+
+/* ===== 响应式样式 ===== */
+
+/* 大屏幕 (1200px 及以上) */
+@media (min-width: 1200px) {
+  .section-block {
+    margin-bottom: 4rem;
+  }
+  
+  .section-title {
+    font-size: 1.5rem;
+  }
+  
+  .title-primary {
+    font-size: 1.15rem;
+  }
+}
+
+/* 中等屏幕 (768px - 1199px) */
+@media (max-width: 1199px) and (min-width: 768px) {
+  .section-block {
+    margin-bottom: 3rem;
+  }
+  
+  .section-title {
+    font-size: 1.35rem;
+  }
+}
+
+/* 平板 (768px 及以下) */
+@media (max-width: 768px) {
+  .section-block {
+    margin-bottom: 2.5rem;
+  }
+  
+  .section-title {
+    font-size: 1.25rem;
+  }
+  
+  .title-primary {
+    font-size: 1.05rem;
+  }
+  
+  .title-secondary {
+    font-size: 1.15rem;
+  }
+  
+  .text-primary {
+    font-size: 0.98em;
+  }
+  
+  .text-secondary {
+    font-size: 0.95em;
+  }
+  
+  .section-description {
+    font-size: 1rem;
+  }
+  
+  /* 卡片响应式 */
+  .card-base {
+    border-radius: 8px;
+  }
+  
+  /* 列表响应式 */
+  .section-list {
+    font-size: 1rem;
+  }
+  
+  /* 头像响应式 */
+  .avatar-circle {
+    width: 80px;
+    height: 80px;
+  }
+  
+  .avatar-square {
+    width: 150px;
+    height: 150px;
+  }
+}
+
+/* 手机 (480px 及以下) */
+@media (max-width: 480px) {
+  .section-block {
+    margin-bottom: 2rem;
+  }
+  
+  .section-title {
+    font-size: 1.15rem;
+    margin-bottom: 1rem;
+  }
+  
+  .title-primary {
+    font-size: 1rem;
+  }
+  
+  .title-secondary {
+    font-size: 1.1rem;
+  }
+  
+  .text-primary {
+    font-size: 0.95em;
+    line-height: 1.6;
+  }
+  
+  .text-secondary {
+    font-size: 0.92em;
+  }
+  
+  .text-muted {
+    font-size: 0.9em;
+  }
+  
+  .section-description {
+    font-size: 0.95rem;
+  }
+  
+  /* 卡片响应式 */
+  .card-base {
+    border-radius: 6px;
+    padding: 1rem;
+  }
+  
+  /* 列表响应式 */
+  .section-list {
+    font-size: 0.95rem;
+  }
+  
+  /* .list-item-flex {
+    flex-direction: column;
+    gap: 0.5em;
+  } */
+  
+  /* 头像响应式 */
+  .avatar-circle {
+    width: 70px;
+    height: 70px;
+  }
+  
+  .avatar-square {
+    width: 120px;
+    height: 120px;
+  }
+  
+  /* 信息块响应式 */
+  .info-block {
+    padding: 1em 1.2em;
+    max-width: 100%;
+  }
+  
+  .info-title {
+    font-size: 1rem;
+  }
+  
+  .info-text {
+    font-size: 0.95rem;
+  }
+  
+  /* 徽章响应式 */
+  .badge-accent {
+    padding: 0.4em 0.6em;
+  }
+  
+  .badge-text {
+    font-size: 0.9rem;
+  }
+}
+
+/* 超小屏幕 (360px 及以下) */
+@media (max-width: 360px) {
+  .section-block {
+    margin-bottom: 1.5rem;
+  }
+  
+  .section-title {
+    font-size: 1.1rem;
+  }
+  
+  .title-primary {
+    font-size: 0.95rem;
+  }
+  
+  .title-secondary {
+    font-size: 1rem;
+  }
+  
+  .text-primary {
+    font-size: 0.9em;
+  }
+  
+  .text-secondary {
+    font-size: 0.88em;
+  }
+  
+  .text-muted {
+    font-size: 0.85em;
+  }
+  
+  /* 卡片响应式 */
+  .card-base {
+    padding: 0.8rem;
+  }
+  
+  /* 头像响应式 */
+  .avatar-circle {
+    width: 60px;
+    height: 60px;
+  }
+  
+  .avatar-square {
+    width: 100px;
+    height: 100px;
+  }
+} 
