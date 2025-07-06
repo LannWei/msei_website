@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "title": "Our Team",
+    "description": "Meet the talented researchers driving innovation in our lab"
+  },
+  "sections": {
+    "phdstudents": {
+      "subsections": [
+        {
+          "name": "PhD Student",
+          "data": {
+            "name": "Alex Zhang",
+            "role": "PhD Student",
+            "period": "2021 - Present",
+            "description": "Working on multimodal learning and computer vision applications in medical imaging. Focuses on developing novel deep learning architectures for robust medical image analysis.",
+            "avatar": "/assets/avatar_imgs/Alex_Zhang.jpg"
+          }
+        },
+        {
+          "name": "PhD Student",
+          "data": {
+            "name": "Chen Lin",
+            "role": "PhD Student",
+            "period": "2022 - Present",
+            "description": "Researching reinforcement learning and robotics, with a focus on dexterous manipulation and human-robot interaction. Developing algorithms for safe and efficient robotic control.",
+            "avatar": "/assets/avatar_imgs/Chen_Lin.jpg"
+          }
+        }
+      ]
+    },
+    "researchassistants": {
+      "subsections": [
+        {
+          "name": "Research Assistant",
+          "data": {
+            "name": "Li Wei",
+            "role": "Research Assistant",
+            "period": "2023 - Present",
+            "description": "Contributing to computer vision projects, particularly in object detection and semantic segmentation. Developing efficient algorithms for real-time video analysis.",
+            "avatar": "/assets/avatar_imgs/Li_Wei.jpg"
+          }
+        },
+        {
+          "name": "Research Assistant",
+          "data": {
+            "name": "Liu Yan",
+            "role": "Research Assistant",
+            "period": "2024 - Present",
+            "description": "Working on federated learning and privacy-preserving AI systems. Developing secure protocols for distributed machine learning across multiple institutions.",
+            "avatar": "/assets/avatar_imgs/Liu_Yan.jpg"
+          }
+        },
+        {
+          "name": "Research Assistant",
+          "data": {
+            "name": "Wang Yu",
+            "role": "Research Student",
+            "period": "2023 - Present",
+            "description": "Specializing in natural language processing and transformer models. Working on large language models for multilingual applications and cross-modal understanding.",
+            "avatar": "/assets/avatar_imgs/Wang_Yu.jpg"
+          }
+        }
+      ]
+    },
+    "visitingphdstudents": {
+      "subsections": [
+        {
+          "name": "Visiting PhD Student",
+          "data": {
+            "name": "Maria Garcia",
+            "role": "Visiting PhD Student",
+            "period": "2024 - Present",
+            "description": "Visiting from University of Barcelona, working on multimodal sensor fusion for autonomous vehicles. Contributing to our perception and decision-making research.",
+            "avatar": "/assets/avatar_imgs/Maria_Garcia.jpg"
+          }
+        },
+        {
+          "name": "Visiting PhD Student",
+          "data": {
+            "name": "Hans Mueller",
+            "role": "Visiting PhD Student",
+            "period": "2024 - Present",
+            "description": "Visiting from ETH Zurich, specializing in robotic manipulation and haptic feedback systems. Collaborating on our dexterous manipulation projects.",
+            "avatar": "/assets/avatar_imgs/Hans_Mueller.jpg"
+          }
+        }
+      ]
+    },
+    "mresstudents": {
+      "subsections": [
+        {
+          "name": "MRes Student",
+          "data": {
+            "name": "Sarah Johnson",
+            "period": "2024 - Present"
+          }
+        },
+        {
+          "name": "MRes Student",
+          "data": {
+            "name": "David Chen",
+            "period": "2024 - Present"
+          }
+        },
+        {
+          "name": "MRes Student",
+          "data": {
+            "name": "Emma Wilson",
+            "period": "2024 - Present"
+          }
+        }
+      ]
+    },
+    "alumni": {
+      "subsections": [
+        {
+          "name": "Alumni",
+          "data": {
+            "name": "Dr. Zhang Ming",
+            "period": "2019 - 2023"
+          }
+        },
+        {
+          "name": "Alumni",
+          "data": {
+            "name": "Dr. Wang Li",
+            "period": "2020 - 2023"
+          }
+        },
+        {
+          "name": "Alumni",
+          "data": {
+            "name": "Dr. Liu Hao",
+            "period": "2021 - 2023"
+          }
+        }
+      ]
+    }
+  },
+  "lastUpdated": "2025-07-05T16:06:45.554Z"
+}

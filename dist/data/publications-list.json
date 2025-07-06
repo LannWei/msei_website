@@ -1,0 +1,485 @@
+{
+  "metadata": {
+    "title": "Publications",
+    "description": "For a full list of our publications, please refer to my <a href='https://scholar.google.com/citations?user=233I39oAAAAJ&hl=en'>Google Scholar profile</a>.",
+    "lastUpdated": "2024-07-04"
+  },
+  "publications": [
+    {
+      "title": "Deep Learning for Medical Image Analysis: A Comprehensive Survey",
+      "year": "2024",
+      "authors": "Alex Zhang, Li Wei, Wang Yu",
+      "venue": "Medical Image Analysis",
+      "keywords": [
+        "Medical Imaging",
+        "Deep Learning",
+        "Survey"
+      ],
+      "links": {
+        "PDF": "https://www.sciencedirect.com/science/article/abs/pii/S1361841524001234",
+        "DOI": "https://doi.org/10.1016/j.media.2024.103456"
+      },
+      "section": "Journal Papers"
+    },
+    {
+      "title": "Transformer-based Models for Natural Language Processing",
+      "year": "2024",
+      "authors": "Sun Hao, Wang Ming, Chen Jie",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "keywords": [
+        "NLP",
+        "Transformer",
+        "Language Models"
+      ],
+      "links": {
+        "PDF": "https://ieeexplore.ieee.org/document/9876543",
+        "DOI": "https://doi.org/10.1109/TPAMI.2024.123456"
+      },
+      "section": "Journal Papers"
+    },
+    {
+      "title": "Multimodal Learning for Healthcare Applications",
+      "year": "2023",
+      "authors": "Zhang Wei, Li Ming, Wang Hao",
+      "venue": "MICCAI 2023",
+      "keywords": [
+        "Multimodal",
+        "Healthcare",
+        "Medical AI"
+      ],
+      "links": {
+        "PDF": "https://link.springer.com/chapter/10.1007/978-3-031-43907-0_123",
+        "Code": "https://github.com/euroai-lab/multimodal-healthcare"
+      },
+      "section": "Conference Papers"
+    },
+    {
+      "title": "Robust Deep Learning for Computer Vision",
+      "year": "2023",
+      "authors": "Chen Lin, Liu Yan, Zhao Qian",
+      "venue": "CVPR 2023",
+      "keywords": [
+        "Computer Vision",
+        "Robustness",
+        "Deep Learning"
+      ],
+      "links": {
+        "PDF": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Robust_Deep_Learning_for_Computer_Vision_CVPR_2023_paper.pdf",
+        "Code": "https://github.com/euroai-lab/robust-vision",
+        "Project": "https://euroai-lab.github.io/robust-vision"
+      },
+      "section": "Conference Papers"
+    },
+    {
+      "title": "A Survey of Deep Learning in Computer Vision",
+      "year": "2023",
+      "authors": "Alex Zhang, Chen Lin, Sun Hao",
+      "venue": "Computer Vision and Image Understanding",
+      "keywords": [
+        "Computer Vision",
+        "Deep Learning",
+        "Survey"
+      ],
+      "links": {
+        "PDF": "https://www.sciencedirect.com/science/article/abs/pii/S1077314223001234",
+        "DOI": "https://doi.org/10.1016/j.cviu.2023.103789"
+      },
+      "section": "Journal Papers"
+    },
+    {
+      "title": "Efficient Attention Mechanisms for Large Language Models",
+      "year": "2022",
+      "authors": "Wang Yu, Chen Jie, Liu Yan",
+      "venue": "ACL 2022",
+      "keywords": [
+        "Attention",
+        "Language Models",
+        "Efficiency"
+      ],
+      "links": {
+        "PDF": "https://aclanthology.org/2022.acl-long.123",
+        "Code": "https://github.com/euroai-lab/efficient-attention"
+      },
+      "section": "Conference Papers"
+    },
+    {
+      "title": "Self-Supervised Learning for Medical Image Segmentation",
+      "year": "2022",
+      "authors": "Zhao Qian, Zhang Wei, Li Ming",
+      "venue": "MICCAI 2022",
+      "keywords": [
+        "Self-Supervised",
+        "Medical Imaging",
+        "Segmentation"
+      ],
+      "links": {
+        "PDF": "https://link.springer.com/chapter/10.1007/978-3-031-16443-9_456",
+        "Code": "https://github.com/euroai-lab/ssl-medical"
+      },
+      "section": "Conference Papers"
+    },
+    {
+      "title": "Recent Advances in Transformer Architecture",
+      "year": "2022",
+      "authors": "Sun Hao, Wang Ming, Chen Jie",
+      "venue": "Nature Machine Intelligence",
+      "keywords": [
+        "Transformer",
+        "Architecture",
+        "Review"
+      ],
+      "links": {
+        "PDF": "https://www.nature.com/articles/s42256-022-00567-8",
+        "DOI": "https://doi.org/10.1038/s42256-022-00567-8"
+      },
+      "section": "Journal Papers"
+    },
+    {
+      "title": "Adversarial Training for Robust Neural Networks",
+      "year": "2021",
+      "authors": "Li Wei, Zhang Alex, Wang Yu",
+      "venue": "NeurIPS 2021",
+      "keywords": [
+        "Adversarial Training",
+        "Robustness",
+        "Neural Networks"
+      ],
+      "links": {
+        "PDF": "https://proceedings.neurips.cc/paper/2021/hash/1234567890abcdef1234567890abcdef-Abstract.html",
+        "Code": "https://github.com/euroai-lab/adversarial-training"
+      },
+      "section": "Conference Papers"
+    },
+    {
+      "title": "Federated Learning for Healthcare",
+      "year": "2021",
+      "authors": "Chen Lin, Liu Yan, Zhao Qian",
+      "venue": "AAAI 2021",
+      "keywords": [
+        "Federated Learning",
+        "Healthcare",
+        "Privacy"
+      ],
+      "links": {
+        "PDF": "https://ojs.aaai.org/index.php/AAAI/article/view/12345",
+        "Code": "https://github.com/euroai-lab/federated-healthcare"
+      },
+      "section": "Conference Papers"
+    },
+    {
+      "title": "Deep Learning in Medical Imaging: Challenges and Opportunities",
+      "year": "2021",
+      "authors": "Zhang Alex, Chen Lin, Sun Hao",
+      "venue": "IEEE Journal of Biomedical and Health Informatics",
+      "keywords": [
+        "Medical Imaging",
+        "Deep Learning",
+        "Challenges"
+      ],
+      "links": {
+        "PDF": "https://ieeexplore.ieee.org/document/9876543",
+        "DOI": "https://doi.org/10.1109/JBHI.2021.123456 "
+      },
+      "section": "Journal Papers"
+    },
+    {
+      "title": "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks",
+      "year": "2019",
+      "authors": "Mingxing Tan, Quoc V. Le",
+      "venue": "ICML 2019",
+      "keywords": [
+        "CNN",
+        "Model Scaling",
+        "EfficientNet"
+      ],
+      "links": {
+        "PDF": "https://arxiv.org/abs/1905.11946",
+        "Code": "https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet",
+        "Project": "https://github.com/lukemelas/EfficientNet-PyTorch"
+      },
+      "section": "Conference Papers"
+    },
+    {
+      "title": "Attention Is All You Need",
+      "year": "2017",
+      "authors": "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin",
+      "venue": "NeurIPS 2017",
+      "keywords": [
+        "Transformer",
+        "Attention",
+        "NLP"
+      ],
+      "links": {
+        "PDF": "https://arxiv.org/abs/1706.03762",
+        "Code": "https://github.com/tensorflow/tensor2tensor"
+      },
+      "section": "Conference Papers"
+    },
+    {
+      "title": "Mask R-CNN",
+      "year": "2017",
+      "authors": "Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross Girshick",
+      "venue": "ICCV 2017",
+      "keywords": [
+        "Object Detection",
+        "Instance Segmentation",
+        "Mask R-CNN"
+      ],
+      "links": {
+        "PDF": "https://arxiv.org/abs/1703.06870",
+        "Code": "https://github.com/facebookresearch/Detectron"
+      },
+      "section": "Conference Papers"
+    }
+  ],
+  "publicationsByYear": {
+    "2017": [
+      {
+        "title": "Attention Is All You Need",
+        "year": "2017",
+        "authors": "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin",
+        "venue": "NeurIPS 2017",
+        "keywords": [
+          "Transformer",
+          "Attention",
+          "NLP"
+        ],
+        "links": {
+          "PDF": "https://arxiv.org/abs/1706.03762",
+          "Code": "https://github.com/tensorflow/tensor2tensor"
+        },
+        "section": "Conference Papers"
+      },
+      {
+        "title": "Mask R-CNN",
+        "year": "2017",
+        "authors": "Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross Girshick",
+        "venue": "ICCV 2017",
+        "keywords": [
+          "Object Detection",
+          "Instance Segmentation",
+          "Mask R-CNN"
+        ],
+        "links": {
+          "PDF": "https://arxiv.org/abs/1703.06870",
+          "Code": "https://github.com/facebookresearch/Detectron"
+        },
+        "section": "Conference Papers"
+      }
+    ],
+    "2019": [
+      {
+        "title": "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks",
+        "year": "2019",
+        "authors": "Mingxing Tan, Quoc V. Le",
+        "venue": "ICML 2019",
+        "keywords": [
+          "CNN",
+          "Model Scaling",
+          "EfficientNet"
+        ],
+        "links": {
+          "PDF": "https://arxiv.org/abs/1905.11946",
+          "Code": "https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet",
+          "Project": "https://github.com/lukemelas/EfficientNet-PyTorch"
+        },
+        "section": "Conference Papers"
+      }
+    ],
+    "2021": [
+      {
+        "title": "Adversarial Training for Robust Neural Networks",
+        "year": "2021",
+        "authors": "Li Wei, Zhang Alex, Wang Yu",
+        "venue": "NeurIPS 2021",
+        "keywords": [
+          "Adversarial Training",
+          "Robustness",
+          "Neural Networks"
+        ],
+        "links": {
+          "PDF": "https://proceedings.neurips.cc/paper/2021/hash/1234567890abcdef1234567890abcdef-Abstract.html",
+          "Code": "https://github.com/euroai-lab/adversarial-training"
+        },
+        "section": "Conference Papers"
+      },
+      {
+        "title": "Federated Learning for Healthcare",
+        "year": "2021",
+        "authors": "Chen Lin, Liu Yan, Zhao Qian",
+        "venue": "AAAI 2021",
+        "keywords": [
+          "Federated Learning",
+          "Healthcare",
+          "Privacy"
+        ],
+        "links": {
+          "PDF": "https://ojs.aaai.org/index.php/AAAI/article/view/12345",
+          "Code": "https://github.com/euroai-lab/federated-healthcare"
+        },
+        "section": "Conference Papers"
+      },
+      {
+        "title": "Deep Learning in Medical Imaging: Challenges and Opportunities",
+        "year": "2021",
+        "authors": "Zhang Alex, Chen Lin, Sun Hao",
+        "venue": "IEEE Journal of Biomedical and Health Informatics",
+        "keywords": [
+          "Medical Imaging",
+          "Deep Learning",
+          "Challenges"
+        ],
+        "links": {
+          "PDF": "https://ieeexplore.ieee.org/document/9876543",
+          "DOI": "https://doi.org/10.1109/JBHI.2021.123456 "
+        },
+        "section": "Journal Papers"
+      }
+    ],
+    "2022": [
+      {
+        "title": "Efficient Attention Mechanisms for Large Language Models",
+        "year": "2022",
+        "authors": "Wang Yu, Chen Jie, Liu Yan",
+        "venue": "ACL 2022",
+        "keywords": [
+          "Attention",
+          "Language Models",
+          "Efficiency"
+        ],
+        "links": {
+          "PDF": "https://aclanthology.org/2022.acl-long.123",
+          "Code": "https://github.com/euroai-lab/efficient-attention"
+        },
+        "section": "Conference Papers"
+      },
+      {
+        "title": "Self-Supervised Learning for Medical Image Segmentation",
+        "year": "2022",
+        "authors": "Zhao Qian, Zhang Wei, Li Ming",
+        "venue": "MICCAI 2022",
+        "keywords": [
+          "Self-Supervised",
+          "Medical Imaging",
+          "Segmentation"
+        ],
+        "links": {
+          "PDF": "https://link.springer.com/chapter/10.1007/978-3-031-16443-9_456",
+          "Code": "https://github.com/euroai-lab/ssl-medical"
+        },
+        "section": "Conference Papers"
+      },
+      {
+        "title": "Recent Advances in Transformer Architecture",
+        "year": "2022",
+        "authors": "Sun Hao, Wang Ming, Chen Jie",
+        "venue": "Nature Machine Intelligence",
+        "keywords": [
+          "Transformer",
+          "Architecture",
+          "Review"
+        ],
+        "links": {
+          "PDF": "https://www.nature.com/articles/s42256-022-00567-8",
+          "DOI": "https://doi.org/10.1038/s42256-022-00567-8"
+        },
+        "section": "Journal Papers"
+      }
+    ],
+    "2023": [
+      {
+        "title": "Multimodal Learning for Healthcare Applications",
+        "year": "2023",
+        "authors": "Zhang Wei, Li Ming, Wang Hao",
+        "venue": "MICCAI 2023",
+        "keywords": [
+          "Multimodal",
+          "Healthcare",
+          "Medical AI"
+        ],
+        "links": {
+          "PDF": "https://link.springer.com/chapter/10.1007/978-3-031-43907-0_123",
+          "Code": "https://github.com/euroai-lab/multimodal-healthcare"
+        },
+        "section": "Conference Papers"
+      },
+      {
+        "title": "Robust Deep Learning for Computer Vision",
+        "year": "2023",
+        "authors": "Chen Lin, Liu Yan, Zhao Qian",
+        "venue": "CVPR 2023",
+        "keywords": [
+          "Computer Vision",
+          "Robustness",
+          "Deep Learning"
+        ],
+        "links": {
+          "PDF": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Robust_Deep_Learning_for_Computer_Vision_CVPR_2023_paper.pdf",
+          "Code": "https://github.com/euroai-lab/robust-vision",
+          "Project": "https://euroai-lab.github.io/robust-vision"
+        },
+        "section": "Conference Papers"
+      },
+      {
+        "title": "A Survey of Deep Learning in Computer Vision",
+        "year": "2023",
+        "authors": "Alex Zhang, Chen Lin, Sun Hao",
+        "venue": "Computer Vision and Image Understanding",
+        "keywords": [
+          "Computer Vision",
+          "Deep Learning",
+          "Survey"
+        ],
+        "links": {
+          "PDF": "https://www.sciencedirect.com/science/article/abs/pii/S1077314223001234",
+          "DOI": "https://doi.org/10.1016/j.cviu.2023.103789"
+        },
+        "section": "Journal Papers"
+      }
+    ],
+    "2024": [
+      {
+        "title": "Deep Learning for Medical Image Analysis: A Comprehensive Survey",
+        "year": "2024",
+        "authors": "Alex Zhang, Li Wei, Wang Yu",
+        "venue": "Medical Image Analysis",
+        "keywords": [
+          "Medical Imaging",
+          "Deep Learning",
+          "Survey"
+        ],
+        "links": {
+          "PDF": "https://www.sciencedirect.com/science/article/abs/pii/S1361841524001234",
+          "DOI": "https://doi.org/10.1016/j.media.2024.103456"
+        },
+        "section": "Journal Papers"
+      },
+      {
+        "title": "Transformer-based Models for Natural Language Processing",
+        "year": "2024",
+        "authors": "Sun Hao, Wang Ming, Chen Jie",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "keywords": [
+          "NLP",
+          "Transformer",
+          "Language Models"
+        ],
+        "links": {
+          "PDF": "https://ieeexplore.ieee.org/document/9876543",
+          "DOI": "https://doi.org/10.1109/TPAMI.2024.123456"
+        },
+        "section": "Journal Papers"
+      }
+    ]
+  },
+  "total": 14,
+  "years": [
+    "2024",
+    "2023",
+    "2022",
+    "2021",
+    "2019",
+    "2017"
+  ],
+  "lastUpdated": "2025-07-05T15:50:27.683Z"
+}

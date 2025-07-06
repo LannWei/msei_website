@@ -1,0 +1,61 @@
+{
+  "papers": [
+    {
+      "slug": "nlp-transformer",
+      "title": "Transformer-based Models for Natural Language Processing",
+      "authors": [
+        "Sun Hao",
+        "Wang Ming",
+        "Chen Jie"
+      ],
+      "keywords": [
+        "NLP",
+        "Transformer",
+        "Language Models",
+        "BERT",
+        "GPT"
+      ],
+      "date": "2024-03-10",
+      "abstract": "## Abstract\n\nThis paper explores the application of transformer architectures in natural language processing tasks, including text classification, machine translation, and question answering systems.\n...",
+      "filePath": "nlp-transformer.md"
+    },
+    {
+      "slug": "computer-vision-2024",
+      "title": "Advanced Computer Vision Techniques for Medical Imaging",
+      "authors": [
+        "Chen Lin",
+        "Liu Yan",
+        "Zhao Qian"
+      ],
+      "keywords": [
+        "Computer Vision",
+        "Medical Imaging",
+        "Segmentation",
+        "Detection"
+      ],
+      "date": "2024-02-20",
+      "abstract": "## Abstract\n\nThis paper presents novel computer vision techniques specifically designed for medical imaging applications, focusing on segmentation, classification, and anomaly detection in various med...",
+      "filePath": "computer-vision-2024.md"
+    },
+    {
+      "slug": "deep-learning-survey",
+      "title": "A Comprehensive Survey of Deep Learning Techniques",
+      "authors": [
+        "Alex Zhang",
+        "Li Wei",
+        "Wang Yu"
+      ],
+      "keywords": [
+        "Deep Learning",
+        "Neural Networks",
+        "Survey",
+        "Computer Vision"
+      ],
+      "date": "2024-01-15",
+      "abstract": "## Abstract\n\nThis paper provides a comprehensive survey of deep learning techniques, covering fundamental concepts, architectures, and applications in computer vision, natural language processing, and...",
+      "filePath": "deep-learning-survey.md"
+    }
+  ],
+  "total": 3,
+  "lastUpdated": "2025-07-05T01:17:43.519Z"
+}

@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "title": "EuroAI Lab",
+    "subtitle": "Advancing artificial intelligence through innovative research",
+    "lastUpdated": "2024-07-04"
+  },
+  "sections": {
+    "hero": {
+      "title": "Dandan Zhang",
+      "primaryButton": "Explore Research",
+      "secondaryButton": "Meet Our Team",
+      "description": "I am a Lecturer (US equivalent: Assistant Professor) in Medical Robotics in the Department of Bioengineering and a Lecturer in Artificial Intelligence and Machine Learning in the I-X initiative at Imperial College London. I am the Director of the Multi-Scale Embodied Intelligence Laboratory. I have been an honorary researcher in the Department of Electrical and Electronic Engineering at Imperial College London. Before joining Imperial, I was a Lecturer in the Department of Engineering Mathematics at the University of Bristol, affiliated with the Bristol Robotics Laboratory. I earned her Ph.D. degree from the Department of Computing and her MRes degree from the Department of Surgery and Cancer at Imperial College London. I have cross-disciplinary interests in robotics, biomedicine, and AI. Overall, we have published more than 70 papers in top-tier peer-reviewed engineering and medical imaging journals and conference proceedings."
+    },
+    "researchoverview": {
+      "subsections": [
+        {
+          "name": "Research Area",
+          "data": {
+            "title": "Multimodal Perception (Sensing)",
+            "intro": "We design novel deep learning, reinforcement learning, and federated learning algorithms for robust, scalable, and privacy-preserving AI.",
+            "description": "Developing novel algorithms and architectures for deep learning, reinforcement learning, and federated learning.",
+            "icon": "🤖",
+            "keywords": [
+              "Machine Learning",
+              "Deep Learning",
+              "Reinforcement Learning",
+              "Federated Learning"
+            ]
+          }
+        },
+        {
+          "name": "Research Area",
+          "data": {
+            "title": "Interactive Learning (Decision-Making)",
+            "intro": "Our work in computer vision covers object detection, segmentation, and multimodal learning, with a focus on medical imaging and real-world visual understanding.",
+            "description": "Advancing visual understanding through object detection, image segmentation, and multimodal learning.",
+            "icon": "👁️",
+            "keywords": [
+              "Computer Vision",
+              "Object Detection",
+              "Image Segmentation",
+              "Multimodal Learning"
+            ]
+          }
+        },
+        {
+          "name": "Research Area",
+          "data": {
+            "title": "Dexterous Manipulation（Execution)",
+            "intro": "We build intelligent language models and systems for text understanding, generation, and cross-modal AI, enabling machines to process and reason with human language.",
+            "description": "Building intelligent language models and systems for text understanding and generation.",
+            "icon": "💬",
+            "keywords": [
+              "Natural Language Processing",
+              "Language Models",
+              "Text Understanding",
+              "Generation"
+            ]
+          }
+        }
+      ]
+    },
+    "opening": {
+      "description": "I am looking for highly motivated PhD students to work on microfluidics for microrobotics at Imperial College London. Prospective students will have a good first degree in Bioengineering, Computer Science, Electrical Engineering, Automation or other engineering-related disciplines. Please feel free to drop me an email if you are interested. <br>For details, please check the <a href='https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Robust_Deep_Learning_for_Computer_Vision_CVPR_2024_paper.pdf'>Vacancies page</a>."
+    },
+    "latestnews": {
+      "subsections": [
+        {
+          "name": "News Item",
+          "data": {
+            "title": "New Paper Accepted at ICML 2024",
+            "date": "2024-07-15",
+            "category": "Publication",
+            "authors": "Alex Zhang, Chen Lin",
+            "venue": "ICML 2024",
+            "summary": "Our paper 'Efficient Attention Mechanisms for Large Language Models' has been accepted at ICML 2024. This work introduces a novel attention mechanism that reduces computational complexity while maintaining performance.",
+            "keywords": [
+              "Machine Learning",
+              "Deep Learning",
+              "ICML"
+            ],
+            "links": [
+              "PDF: https://arxiv.org/abs/2407.12345",
+              "Code: https://github.com/euroai-lab/efficient-attention"
+            ]
+          }
+        },
+        {
+          "name": "News Item",
+          "data": {
+            "title": "Lab Member Wins Best Paper Award",
+            "date": "2024-07-10",
+            "category": "Award",
+            "authors": "Wang Yu",
+            "venue": "CVPR 2024",
+            "summary": "Congratulations to Wang Yu for winning the Best Paper Award at CVPR 2024 for the paper 'Robust Deep Learning for Computer Vision'. This is a significant recognition of our lab's research excellence.",
+            "keywords": [
+              "Award",
+              "CVPR",
+              "Computer Vision"
+            ],
+            "links": [
+              "PDF: https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Robust_Deep_Learning_for_Computer_Vision_CVPR_2024_paper.pdf"
+            ]
+          }
+        },
+        {
+          "name": "News Item",
+          "data": {
+            "title": "New Research Grant Awarded",
+            "date": "2024-06-20",
+            "category": "Funding",
+            "authors": "EuroAI Lab",
+            "venue": "National Science Foundation",
+            "summary": "We are excited to announce that our lab has been awarded a major research grant from the National Science Foundation to support our work on 'Multimodal Learning for Healthcare Applications'.",
+            "keywords": [
+              "Funding",
+              "Research Grant",
+              "AI"
+            ],
+            "links": [
+              "Project: https://euroai-lab.github.io/multimodal-healthcare"
+            ]
+          }
+        }
+      ]
+    },
+    "teamoverview": {
+      "subsections": [
+        {
+          "name": "Team Member",
+          "data": {
+            "name": "Dr. Alex Zhang",
+            "role": "Principal Investigator",
+            "research": "Machine Learning, Computer Vision",
+            "avatar": "👨‍🔬"
+          }
+        },
+        {
+          "name": "Team Member",
+          "data": {
+            "name": "Chen Lin",
+            "role": "PhD Student",
+            "research": "Deep Learning, Medical AI",
+            "avatar": "👩‍🎓"
+          }
+        },
+        {
+          "name": "Team Member",
+          "data": {
+            "name": "Wang Yu",
+            "role": "PhD Student",
+            "research": "Computer Vision, Robustness",
+            "avatar": "👨‍🎓"
+          }
+        },
+        {
+          "name": "Team Member",
+          "data": {
+            "name": "Li Wei",
+            "role": "Research Assistant",
+            "research": "NLP, Transformer Models",
+            "avatar": "👩‍💻"
+          }
+        }
+      ]
+    },
+    "award": {
+      "lists": [
+        "2022 UK Best PhD in Robotics Award",
+        "2022 ICRA best paper award in HRI",
+        "Awardee for Amazon PhD Prize for Outstanding Achievement in Robotics"
+      ]
+    },
+    "contactinformation": {
+      "subsections": [
+        {
+          "name": "Contact Details",
+          "data": {
+            "email": "info@euroai-lab.eu",
+            "address": "Science Park 904, 1098 XH Amsterdam, Netherlands",
+            "phone": "+31 20 525 1234",
+            "website": "https://euroai-lab.github.io"
+          }
+        }
+      ]
+    }
+  },
+  "lastUpdated": "2025-07-05T17:10:44.720Z"
+}
