@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "title": "Publications",
+    "description": "For a full list of our publications, please refer to my <a href='https://scholar.google.com/citations?user=233I39oAAAAJ&hl=en'>Google Scholar profile</a>.",
+    "lastUpdated": "06-07-2025"
+  },
+  "sections": [
+    {
+      "title": "# Publications",
+      "body": ""
+    },
+    {
+      "title": "Coarse-to-Fine Learning for Multi-Pipette Localisation in Robot-Assisted In Vivo Patch-Clamp",
+      "year": "2025",
+      "type": "Conference Paper",
+      "venue": "IROS 2025",
+      "authors": [
+        "Lan Wei",
+        "Gema Vera Gonzalez",
+        "Phatsimo Kgwarae",
+        "Alexander Timms",
+        "Denis Zahorovsky",
+        "Simon Schultz",
+        "Dandan Zhang"
+      ],
+      "keywords": [
+        "CNN",
+        "In Vivo Patch-Clamp",
+        "Pipette Localisation"
+      ],
+      "links": [
+        {
+          "type": "PDF",
+          "url": "https://arxiv.org/pdf/2504.01044?"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/LannWei/Patch-Clamp-Localisation"
+        },
+        {
+          "type": "Project",
+          "url": "https://lannwei.github.io/Patch-Clamp-Localisation/"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "A Dataset and Benchmarks for Deep Learning-Based Optical Microrobot Pose and Depth Perception",
+      "year": "2025",
+      "type": "Conference Paper",
+      "venue": "MARSS 2025",
+      "authors": [
+        "Lan Wei",
+        "Dandan Zhang"
+      ],
+      "keywords": [
+        "Microrobot",
+        "Dataset"
+      ],
+      "links": [
+        {
+          "type": "PDF",
+          "url": "https://arxiv.org/pdf/2505.18303"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/LannWei/Optical-Microrobot-Database"
+        },
+        {
+          "type": "Project",
+          "url": "https://lannwei.github.io/Optical-Microrobot-Database/"
+        }
+      ],
+      "body": ""
+    }
+  ],
+  "lastUpdated": "2025-07-06T15:57:52.744Z"
+}

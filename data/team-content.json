@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "title": "Our Team",
+    "description": "Meet the talented researchers driving innovation in our lab"
+  },
+  "sections": {
+    "phdstudents": {
+      "subsections": [
+        {
+          "name": "PhD Student",
+          "data": {
+            "name": "Wen Fan",
+            "role": "PhD Student",
+            "period": "2022 - Present",
+            "description": "Wen received his MSc degree in xx from the University of Manchester in 2021. He obtained his B.E. degree in xxx from Hefei University of Technology at 2020.  His main research interest xxx.",
+            "avatar": "/msei_website/assets/avatar_imgs/Alex_Zhang.jpg"
+          }
+        },
+        {
+          "name": "PhD Student",
+          "data": {
+            "name": "Jialin Lin",
+            "role": "PhD Student",
+            "period": "2024 - Present",
+            "description": "Jialin received his MSc degree in xx from the University of Bristol in 2022. He obtained his B.E. degree in xxx from Dalian University of Technology at 2021.  His main research interest xxx.",
+            "avatar": "/msei_website/assets/avatar_imgs/jialin.png"
+          }
+        },
+        {
+          "name": "PhD Student",
+          "data": {
+            "name": "Lan Wei",
+            "role": "PhD Student",
+            "period": "2024 - Present",
+            "description": "Lan received her M.E. degree in Computer Science from the University of Science and Technology of China in 2024. She obtained her B.E. degree in Computer Science from Xiamen University in 2021.  Her main research interest is machine learning-based perception of optical microrobots.",
+            "avatar": "/msei_website/assets/avatar_imgs/Lan_Wei.jpg"
+          }
+        },
+        {
+          "name": "PhD Student",
+          "data": {
+            "name": "Zongcai Tan",
+            "role": "PhD Student",
+            "period": "2025 - Present",
+            "description": "Zongcai received his MSc degree in xx from Imperial College London in 2024. He obtained his B.E. degree in xxx from Jilin University at 2023.  His main research interest xxx.",
+            "avatar": "/msei_website/assets/avatar_imgs/Chen_Lin.jpg"
+          }
+        },
+        {
+          "name": "PhD Student",
+          "data": {
+            "name": "Kangyi Lu",
+            "role": "PhD Student",
+            "period": "2025 - Present",
+            "description": "Kangyi received her M.E. degree in xxx from the Shanghai Jiao Tong University in 2024. She obtained her B.E. degree in xxx from xx in 2021.  Her main research interest is xxx.",
+            "avatar": "/msei_website/assets/avatar_imgs/Chen_Lin.jpg"
+          }
+        }
+      ]
+    },
+    "researchassistants": {
+      "subsections": [
+        {
+          "name": "Research Assistant",
+          "data": {
+            "name": "Liu Yan",
+            "role": "Research Assistant",
+            "period": "2024 - Present",
+            "description": "Working on federated learning and privacy-preserving AI systems. Developing secure protocols for distributed machine learning across multiple institutions.",
+            "avatar": "/msei_website/assets/avatar_imgs/Liu_Yan.jpg"
+          }
+        },
+        {
+          "name": "Research Assistant",
+          "data": {
+            "name": "Wang Yu",
+            "role": "Research Student",
+            "period": "2023 - Present",
+            "description": "Specializing in natural language processing and transformer models. Working on large language models for multilingual applications and cross-modal understanding.",
+            "avatar": "/msei_website/assets/avatar_imgs/Wang_Yu.jpg\" -->"
+          }
+        }
+      ]
+    },
+    "visitingphdstudents": {
+      "subsections": [
+        {
+          "name": "Visiting PhD Student",
+          "data": {
+            "name": "Hans Mueller",
+            "role": "Visiting PhD Student",
+            "period": "2024 - Present",
+            "description": "Visiting from ETH Zurich, specializing in robotic manipulation and haptic feedback systems. Collaborating on our dexterous manipulation projects.",
+            "avatar": "/msei_website/assets/avatar_imgs/Hans_Mueller.jpg\" -->"
+          }
+        }
+      ]
+    },
+    "mresstudents": {
+      "subsections": [
+        {
+          "name": "MRes Student",
+          "data": {
+            "name": "Sarah Johnson",
+            "period": "2024 - Present"
+          }
+        },
+        {
+          "name": "MRes Student",
+          "data": {
+            "name": "Alexander Timms",
+            "period": "2024 - Present"
+          }
+        },
+        {
+          "name": "MRes Student",
+          "data": {
+            "name": "Denis Zahorovsky",
+            "period": "2024 - Present"
+          }
+        }
+      ]
+    },
+    "alumni": {
+      "subsections": [
+        {
+          "name": "Alumni",
+          "data": {
+            "name": "Dr. xxx",
+            "period": "2019 - 2023"
+          }
+        },
+        {
+          "name": "Alumni",
+          "data": {
+            "name": "Dr. xxx",
+            "period": "2020 - 2023"
+          }
+        },
+        {
+          "name": "Alumni",
+          "data": {
+            "name": "Dr. xxx",
+            "period": "2021 - 2023"
+          }
+        }
+      ]
+    }
+  },
+  "lastUpdated": "2025-07-06T15:57:53.161Z"
+}

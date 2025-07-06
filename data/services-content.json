@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "title": "Services",
+    "description": "Academic services and professional activities"
+  },
+  "sections": {
+    "programcommittee": {
+      "subsections": [
+        {
+          "name": "Committee",
+          "data": {
+            "name": "International Conference on Robotics and Automation (ICRA)",
+            "period": "2024 - Present"
+          }
+        }
+      ]
+    },
+    "journaleditorial": {
+      "subsections": [
+        {
+          "name": "Journal",
+          "data": {
+            "name": "Cyborg and Bionic Systems",
+            "role": "Young Editor",
+            "period": "2023 - Present"
+          }
+        },
+        {
+          "name": "Journal",
+          "data": {
+            "name": "Frontiers in Neurorobotics and Frontiers in Neuroscience",
+            "role": "Editorial Board Member",
+            "period": "2022 - Present"
+          }
+        }
+      ]
+    },
+    "journal&conferencereviewer": {
+      "subsections": [
+        {
+          "name": "Journal Reviewer",
+          "data": {
+            "name": "Nature Machine Intelligence",
+            "period": "2022 - Present"
+          }
+        },
+        {
+          "name": "Journal Reviewer",
+          "data": {
+            "name": "IEEE Transaction on Robotics",
+            "period": "2023 - Present"
+          }
+        },
+        {
+          "name": "Journal Reviewer",
+          "data": {
+            "name": "Advanced Intelligence System",
+            "period": "2022 - Present"
+          }
+        },
+        {
+          "name": "Journal Reviewer",
+          "data": {
+            "name": "IEEE Transactions on Neural Networks and Learning Systems",
+            "period": "2022 - Present"
+          }
+        },
+        {
+          "name": "Journal Reviewer",
+          "data": {
+            "name": "IEEE Transactions on Automation Science and Engineering",
+            "period": "2022 - Present"
+          }
+        },
+        {
+          "name": "Journal Reviewer",
+          "data": {
+            "name": "IEEE Robotics and Automation Letters",
+            "period": "2022 - Present"
+          }
+        },
+        {
+          "name": "Journal Reviewer",
+          "data": {
+            "name": "IEEE Transactions on Medical Robotics and Bionics",
+            "period": "2022 - Present"
+          }
+        },
+        {
+          "name": "Conference Reviewer",
+          "data": {
+            "name": "IEEE International Conference on Robotics and Automation (ICRA)",
+            "period": "2023 - Present"
+          }
+        },
+        {
+          "name": "Conference Reviewer",
+          "data": {
+            "name": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+            "period": "2022 - Present"
+          }
+        },
+        {
+          "name": "Conference Reviewer",
+          "data": {
+            "name": "IEEE International Conference on Automation, Robotics and Mechatronics (ARM)",
+            "period": "2023 - Present"
+          }
+        }
+      ]
+    }
+  },
+  "lastUpdated": "2025-07-06T15:57:53.383Z"
+}

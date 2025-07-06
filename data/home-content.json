@@ -1,0 +1,197 @@
+{
+  "metadata": {
+    "title": "MSEI Lab",
+    "subtitle": "Multi-Scale Embodied Intelligence Lab",
+    "lastUpdated": "06-07-2025"
+  },
+  "sections": {
+    "hero": {
+      "title": "Dandan Zhang",
+      "primaryButton": "Explore Research",
+      "secondaryButton": "Meet Our Team",
+      "description": "I am a Lecturer (US equivalent: Assistant Professor) in Medical Robotics in the Department of Bioengineering and a Lecturer in Artificial Intelligence and Machine Learning in the I-X initiative at Imperial College London. I am the Director of the Multi-Scale Embodied Intelligence Laboratory. I have been an honorary researcher in the Department of Electrical and Electronic Engineering at Imperial College London. Before joining Imperial, I was a Lecturer in the Department of Engineering Mathematics at the University of Bristol, affiliated with the Bristol Robotics Laboratory. I earned her Ph.D. degree from the Department of Computing and her MRes degree from the Department of Surgery and Cancer at Imperial College London. I have cross-disciplinary interests in robotics, biomedicine, and AI. Overall, we have published more than 70 papers in top-tier peer-reviewed engineering and medical imaging journals and conference proceedings."
+    },
+    "researchoverview": {
+      "subsections": [
+        {
+          "name": "Research Area",
+          "data": {
+            "title": "Multimodal Perception (Sensing)",
+            "intro": "We design novel deep learning, reinforcement learning, and federated learning algorithms for robust, scalable, and privacy-preserving AI.",
+            "description": "Developing novel algorithms and architectures for deep learning, reinforcement learning, and federated learning.",
+            "icon": "🤖",
+            "keywords": [
+              "Machine Learning",
+              "Deep Learning",
+              "Reinforcement Learning",
+              "Federated Learning"
+            ]
+          }
+        },
+        {
+          "name": "Research Area",
+          "data": {
+            "title": "Interactive Learning (Decision-Making)",
+            "intro": "Our work in computer vision covers object detection, segmentation, and multimodal learning, with a focus on medical imaging and real-world visual understanding.",
+            "description": "Advancing visual understanding through object detection, image segmentation, and multimodal learning.",
+            "icon": "👁️",
+            "keywords": [
+              "Computer Vision",
+              "Object Detection",
+              "Image Segmentation",
+              "Multimodal Learning"
+            ]
+          }
+        },
+        {
+          "name": "Research Area",
+          "data": {
+            "title": "Dexterous Manipulation（Execution)",
+            "intro": "We build intelligent language models and systems for text understanding, generation, and cross-modal AI, enabling machines to process and reason with human language.",
+            "description": "Building intelligent language models and systems for text understanding and generation.",
+            "icon": "💬",
+            "keywords": [
+              "Natural Language Processing",
+              "Language Models",
+              "Text Understanding",
+              "Generation"
+            ]
+          }
+        }
+      ]
+    },
+    "opening": {
+      "description": "I am looking for highly motivated PhD students to work on microfluidics for microrobotics at Imperial College London. Prospective students will have a good first degree in Bioengineering, Computer Science, Electrical Engineering, Automation or other engineering-related disciplines. Please feel free to drop me an email if you are interested. <br>For details, please check the Vacancies page.",
+      "<!-- <a href='https": "//openaccess.thecvf.com/content/CVPR2024/papers/Wang_Robust_Deep_Learning_for_Computer_Vision_CVPR_2024_paper.pdf'> -->"
+    },
+    "latestnews": {
+      "subsections": [
+        {
+          "name": "News Item",
+          "data": {
+            "date": "07/2025",
+            "summary": "We will organise the 1st Trustworthy Embodied Intelligence in Healthcare International Symposium at Imperial College, White City campus on 17th July.",
+            "<!-- links": "[\"PDF: https://arxiv.org/abs/2407.12345\", \"Code: https://github.com/euroai-lab/efficient-attention\"] -->"
+          }
+        },
+        {
+          "name": "News Item",
+          "data": {
+            "date": "06/2025",
+            "summary": "One paper on patch clamp multi-pipette localisation accepted at IROS’2025.",
+            "links": [
+              "PDF: https://arxiv.org/pdf/2504.01044?"
+            ]
+          }
+        },
+        {
+          "name": "News Item",
+          "data": {
+            "date": "04/2025",
+            "summary": "Two papers on microrobot perception accepted at MARSS’2025, one was nominated as the best student paper.",
+            "links": [
+              "PDF: https://arxiv.org/pdf/2505.18303",
+              "Code: https://lannwei.github.io/Optical-Microrobot-Database/"
+            ]
+          }
+        },
+        {
+          "name": "News Item",
+          "data": {
+            "date": "02/2025",
+            "summary": "We will organise the 2nd MEIS Workshop at CVPR2025.",
+            "<!-- links": "[\"PDF: https://arxiv.org/abs/2407.12345\", \"Code: https://github.com/euroai-lab/efficient-attention\"] -->"
+          }
+        },
+        {
+          "name": "News Item",
+          "data": {
+            "date": "02/2025",
+            "summary": "Two papers accepted at ICRA’2025.",
+            "links": [
+              "PDF: https://arxiv.org/pdf/2505.20751?",
+              "PDF: https://arxiv.org/pdf/2503.06359"
+            ]
+          }
+        },
+        {
+          "name": "News Item",
+          "data": {
+            "date": "01/2025",
+            "summary": "One paper accepted by the Cyborg and Bionic Systems.",
+            "links": [
+              "PDF: https://spj.science.org/doi/full/10.34133/cbsystems.0231"
+            ]
+          }
+        },
+        {
+          "name": "News Item",
+          "data": {
+            "date": "01/2025",
+            "summary": "Dr. Zhang was shortlisted for AI Visionaries 2025.",
+            "<!-- links": "[\"PDF: https://arxiv.org/abs/2407.12345\", \"Code: https://github.com/euroai-lab/efficient-attention\"] -->"
+          }
+        }
+      ]
+    },
+    "teamoverview": {
+      "subsections": [
+        {
+          "name": "Team Member",
+          "data": {
+            "name": "Dr. Alex Zhang",
+            "role": "Principal Investigator",
+            "research": "Machine Learning, Computer Vision",
+            "avatar": "👨‍🔬"
+          }
+        },
+        {
+          "name": "Team Member",
+          "data": {
+            "name": "Chen Lin",
+            "role": "PhD Student",
+            "research": "Deep Learning, Medical AI",
+            "avatar": "👩‍🎓"
+          }
+        },
+        {
+          "name": "Team Member",
+          "data": {
+            "name": "Wang Yu",
+            "role": "PhD Student",
+            "research": "Computer Vision, Robustness",
+            "avatar": "👨‍🎓"
+          }
+        },
+        {
+          "name": "Team Member",
+          "data": {
+            "name": "Li Wei",
+            "role": "Research Assistant",
+            "research": "NLP, Transformer Models",
+            "avatar": "👩‍💻"
+          }
+        }
+      ]
+    },
+    "award": {
+      "lists": [
+        "2022 UK Best PhD in Robotics Award",
+        "2022 ICRA best paper award in HRI",
+        "Awardee for Amazon PhD Prize for Outstanding Achievement in Robotics"
+      ]
+    },
+    "contactinformation": {
+      "subsections": [
+        {
+          "name": "Contact Details",
+          "data": {
+            "email": "d dot zhang17 at imperial dot ac dot uk",
+            "address": "Translation & Innovation Hub (I-Hub), White City Campus, Imperial College London, W12 7TA"
+          }
+        }
+      ]
+    }
+  },
+  "lastUpdated": "2025-07-06T15:57:52.848Z"
+}
