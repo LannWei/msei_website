@@ -14,6 +14,12 @@
   padding-bottom: 0.3em;
 }
 
+.align-both {
+  text-align: justify;
+  hyphens: auto;  
+  word-spacing: -0.05em; 
+}
+
 .section-description {
   color: #6B7280;
   font-size: 1.08rem;
@@ -105,6 +111,7 @@
 .text-accent {
   color: #10A37F;
   font-weight: 500;
+  font-size: 0.98em;
 }
 
 /* ===== 链接样式 ===== */
