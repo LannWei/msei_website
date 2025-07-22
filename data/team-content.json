@@ -91,6 +91,13 @@
         {
           "name": "MRes Student",
           "data": {
+            "name": "Sarah Johnson",
+            "period": "2024 - Present"
+          }
+        },
+        {
+          "name": "MRes Student",
+          "data": {
             "name": "Alexander Timms",
             "period": "2024 - Present"
           }
