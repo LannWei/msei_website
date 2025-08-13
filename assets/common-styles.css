@@ -1,5 +1,5 @@
 /* 公共样式文件 - 提取自各个Vue页面的重复样式 */
-
+.team-name a { color: #222 !important; }
 /* ===== 基础布局样式 ===== */
 .section-block {
   margin-bottom: 2.5rem;

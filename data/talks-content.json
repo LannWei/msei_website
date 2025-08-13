@@ -9,73 +9,154 @@
         {
           "name": "Talk",
           "data": {
-            "title": "Advances in Multimodal Learning for Medical Imaging",
-            "organizer": "IEEE International Conference on Computer Vision (ICCV)",
-            "time": "2024-10-15",
-            "location": "Paris, France"
+            "title": "Embodied AI and Edge Computing for Intelligent Robots (EAI-EC)",
+            "organizer": "IEEE IROS, International Conference Workshop",
+            "time": "2025-10",
+            "location": "Hangzhou, China"
           }
         },
         {
           "name": "Talk",
           "data": {
-            "title": "Robotic Manipulation: From Perception to Execution",
-            "organizer": "International Conference on Robotics and Automation (ICRA)",
-            "time": "2024-05-20",
-            "location": "Yokohama, Japan"
+            "title": "Trustworthy Medical Robotics",
+            "organizer": "iCANX Forum",
+            "time": "2025-10",
+            "location": "Hongkong, China"
           }
         },
         {
           "name": "Talk",
           "data": {
-            "title": "Deep Learning for Autonomous Systems",
-            "organizer": "Neural Information Processing Systems (NeurIPS)",
-            "time": "2023-12-10",
-            "location": "New Orleans, USA"
-          }
-        },
-        {
-          "name": "Talk",
-          "data": {
-            "title": "AI in Healthcare: Challenges and Opportunities",
-            "organizer": "Imperial College London",
-            "time": "2024-03-15",
+            "title": "Trustworthy Medical Robotics",
+            "organizer": "Hamlyn Symposium Trustworthy Medical Robotics Workshop",
+            "time": "2025-06",
             "location": "London, UK"
           }
         },
         {
           "name": "Talk",
           "data": {
-            "title": "Federated Learning for Privacy-Preserving AI",
-            "organizer": "University of Amsterdam",
-            "time": "2024-02-28",
-            "location": "Amsterdam, Netherlands"
+            "title": "Digital twin-based mixed reality interfaces for teleoperation",
+            "organizer": "Hamlyn Symposium",
+            "time": "2025-06",
+            "location": "London, UK"
           }
         },
         {
           "name": "Talk",
           "data": {
-            "title": "Computer Vision for Autonomous Vehicles",
-            "organizer": "ETH Zurich",
-            "time": "2023-11-20",
-            "location": "Zurich, Switzerland"
+            "title": "Trustworthy Medical Robotics",
+            "organizer": "MedTechOne AI Healthcare",
+            "time": "2025-05",
+            "location": "UK"
           }
         },
         {
           "name": "Talk",
           "data": {
-            "title": "Natural Language Processing in the Era of Large Models",
-            "organizer": "Association for Computational Linguistics (ACL)",
-            "time": "2023-07-15",
-            "location": "Toronto, Canada"
+            "title": "Dexterous Manipulation and Human-Robot Collaboration",
+            "organizer": "6th UK Manipulation Workshop",
+            "time": "2025-05",
+            "location": "London, UK"
           }
         },
         {
           "name": "Talk",
           "data": {
-            "title": "Robotics and AI: Towards General Intelligence",
-            "organizer": "Massachusetts Institute of Technology (MIT)",
-            "time": "2023-09-25",
-            "location": "Cambridge, USA"
+            "title": "AI for Biomedical Robotics Across Scales",
+            "organizer": "Imperial-X Cutting Edge Seminar ",
+            "time": "2024-12",
+            "location": "London, UK"
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "AI for Biomedical Robotics Across Scales",
+            "organizer": "Hamlyn Symposium, Microrobotics Workshop",
+            "time": "2024-06",
+            "location": "London, UK"
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "Guest Lecturer",
+            "organizer": "Shanghai Jiao Tong University",
+            "time": "2024-06",
+            "location": "Shanghai, China "
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "AI for Medical Robotics",
+            "organizer": "University College London",
+            "time": "2024-05",
+            "location": "London, UK"
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "AI for Medical Robotics",
+            "organizer": "Surrey University",
+            "time": "2024-04",
+            "location": "London, UK"
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "AI for Biomedical Robotics Across Scales",
+            "organizer": "University College London",
+            "time": "2024-05",
+            "location": "London, UK"
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "Recent advances in robotic tactile perception and wearable haptic interface for enhanced human-robot interaction",
+            "organizer": "China Haptic and tactile Technology and Application Conference",
+            "time": "2024-05",
+            "location": "Tianjin, China"
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "Intelligent Dexterous Manipulation Across Scales",
+            "organizer": "Tianjin University",
+            "time": "2024-05",
+            "location": "Tianjin, China"
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "Intelligent Dexterous Manipulation Across Scales",
+            "organizer": "CNRS Femto-St",
+            "time": "2024-03",
+            "location": "London, UK"
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "Medical Robotics",
+            "organizer": "University of Bristol",
+            "time": "2024-03",
+            "location": "Bristol, UK"
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "Transformative AI in Business",
+            "organizer": "Imperial College London ",
+            "time": "2024-02",
+            "location": "London, UK"
           }
         }
       ]

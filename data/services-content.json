@@ -9,7 +9,14 @@
         {
           "name": "Committee",
           "data": {
-            "name": "International Conference on Robotics and Automation (ICRA)",
+            "name": "IEEE International Conference on Manipulation, Automation, and Robotics at Small Scales (MARSS)",
+            "period": "2025 - Present"
+          }
+        },
+        {
+          "name": "Committee",
+          "data": {
+            "name": "IEEE International Conference on Robotics and Automation (ICRA)",
             "period": "2024 - Present"
           }
         }

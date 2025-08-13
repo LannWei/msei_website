@@ -11,9 +11,9 @@
           "data": {
             "name": "Wen Fan",
             "role": "PhD Student",
-            "period": "2022 - Present",
-            "description": "Wen received his MSc degree in xx from the University of Manchester in 2021. He obtained his B.E. degree in xxx from Hefei University of Technology at 2020.  His main research interest xxx.",
-            "avatar": "/msei_website/assets/avatar_imgs/Alex_Zhang.jpg"
+            "period": "2023 - Present",
+            "description": "After earning his MSc from the University of Manchester in 2021, Wen joined the Bristol Robotics Laboratory as a Research Assistant, where he began his hands-on exploration of tactile sensing and robotics in 2022. In 2023, he enrolled in the Engineering Mathematics program at the University of Bristol before transferring to Imperial College London to pursue his doctoral research in Bioengineering. His research focuses on tactile robotics, particularly on advancing the design of vision-based tactile sensors through novel manufacturing techniques.",
+            "avatar": "/msei_website/assets/avatar_imgs/wen.jpg"
           }
         },
         {
@@ -22,8 +22,8 @@
             "name": "Jialin Lin",
             "role": "PhD Student",
             "period": "2024 - Present",
-            "description": "Jialin received his MSc degree in xx from the University of Bristol in 2022. He obtained his B.E. degree in xxx from Dalian University of Technology at 2021.  His main research interest xxx.",
-            "avatar": "/msei_website/assets/avatar_imgs/jialin.png"
+            "description": "Jialin received his MSc degree in Robotics from the University of Bristol in 2022. He obtained his B.E. degree in Mechanical Engineering from Dalian University of Technology in 2021. His main research interest is Magnetic Microrobots for drug delivery.",
+            "avatar": "/msei_website/assets/avatar_imgs/Linjialin.png"
           }
         },
         {
@@ -32,7 +32,7 @@
             "name": "Lan Wei",
             "role": "PhD Student",
             "period": "2024 - Present",
-            "description": "Lan received her M.E. degree in Computer Science from the University of Science and Technology of China in 2024. She obtained her B.E. degree in Computer Science from Xiamen University in 2021.  Her main research interest is machine learning-based perception of optical microrobots.",
+            "description": "Lan received her M.E. degree in Computer Science from the University of Science and Technology of China in 2024, after earning her B.E. degree in Computer Science from Xiamen University in 2021. In the same year, she began her doctoral studies in Bioengineering at Imperial College London. Her research focuses on machine learning–based perception for optical microrobots and diffusion-based sim-to-real image generation.",
             "avatar": "/msei_website/assets/avatar_imgs/Lan_Wei.jpg"
           }
         },
@@ -42,8 +42,8 @@
             "name": "Zongcai Tan",
             "role": "PhD Student",
             "period": "2025 - Present",
-            "description": "Zongcai received his MSc degree in xx from Imperial College London in 2024. He obtained his B.E. degree in xxx from Jilin University at 2023.  His main research interest xxx.",
-            "avatar": "/msei_website/assets/avatar_imgs/Chen_Lin.jpg"
+            "description": "Zongcai received his MRes degree in Medical Robotics and Image Guided Intervention from Imperial College London in 2024. He obtained his B.E. degree in Vehicle Engineering from Jilin University in 2022. His main research interest is machine learning based design and control of optical microrobots.",
+            "avatar": "/msei_website/assets/avatar_imgs/zongcai.jpeg"
           }
         },
         {
@@ -52,8 +52,18 @@
             "name": "Kangyi Lu",
             "role": "PhD Student",
             "period": "2025 - Present",
-            "description": "Kangyi received her M.E. degree in xxx from the Shanghai Jiao Tong University in 2024. She obtained her B.E. degree in xxx from xx in 2021.  Her main research interest is xxx.",
+            "description": "To be updated...",
             "avatar": "/msei_website/assets/avatar_imgs/Chen_Lin.jpg"
+          }
+        },
+        {
+          "name": "PhD Student",
+          "data": {
+            "name": "Nitirak Rayabphand (Co-Supervise)",
+            "role": "PhD Student",
+            "period": "2023 - Present",
+            "description": "Nitirak received his Master degree in Robotics Engineering from Osaka University in 2022. He earned his B.E. degree in Mechatronic Engineering from King Mongkut's University of Technology Thonburi in 2015. His research focuses on magnetic microscale robotics for medical application. He is a PhD student of the University of Bristol under supervision of Professor Sabine Hauert (main supervisor) and Assistant Professor Dandan Zhang (second supervisor).",
+            "avatar": "/msei_website/assets/avatar_imgs/Fern.jpeg"
           }
         }
       ]
@@ -65,9 +75,9 @@
           "data": {
             "name": "Qingzheng Cong",
             "role": "Research Assistant",
-            "period": "2024 - Present",
-            "description": "Qingzheng received his MSc degree in xx from the University of Bristol in 2023. He obtained his B.E. degree in xxx from Durham University at 2022.  His main research interest xxx.",
-            "avatar": "/msei_website/assets/avatar_imgs/Li_Wei.jpg"
+            "period": "2023 - Present",
+            "description": "Qingzheng received his MSc degree in Biorobotics from the University of Bristol in 2023 and his B.E. degree in Mechanical Engineering from Durham University in 2022. His main research interests include tactile perception, haptic feedback, and soft robotic manipulation.",
+            "avatar": "/msei_website/assets/avatar_imgs/qingzheng.png"
           }
         }
       ]
@@ -80,32 +90,137 @@
             "name": "Ziyuan Dong",
             "role": "Visiting PhD Student",
             "period": "2025 - Present",
-            "description": "Visiting from xxx, working on xxx. Contributing to our xxx research.",
-            "avatar": "/msei_website/assets/avatar_imgs/Maria_Garcia.jpg"
+            "description": "Ziyuan is currently working toward the Ph.D. degree in Electronic and Information Engineering at the College of Information Engineering, Zhejiang University of Technology. His research interests include data-driven control, robot-physical systems, and fault diagnosis.",
+            "avatar": "/msei_website/assets/avatar_imgs/ziyuan.jpg"
           }
         }
       ]
     },
-    "mresstudents": {
+    "msstudents": {
       "subsections": [
         {
           "name": "MRes Student",
           "data": {
-            "name": "Sarah Johnson",
+            "name": "Alexander Timms (MEng)",
             "period": "2024 - Present"
           }
         },
         {
           "name": "MRes Student",
           "data": {
-            "name": "Alexander Timms",
+            "name": "Denis Zahorovsky (MEng)",
             "period": "2024 - Present"
           }
         },
         {
           "name": "MRes Student",
           "data": {
-            "name": "Denis Zahorovsky",
+            "name": "Songming Ping (MRes)",
+            "period": "2024 - Present"
+          }
+        },
+        {
+          "name": "MRes Student",
+          "data": {
+            "name": "Qi Chen (MRes)",
+            "period": "2024 - Present"
+          }
+        },
+        {
+          "name": "MRes Student",
+          "data": {
+            "name": "Chengmeng Bi (MRes)",
+            "period": "2024 - Present"
+          }
+        },
+        {
+          "name": "MRes Student",
+          "data": {
+            "name": "Sirine Bhouri (MSc)",
+            "period": "2024 - Present"
+          }
+        },
+        {
+          "name": "MRes Student",
+          "data": {
+            "name": "Felix Verstraete (MSc)",
+            "period": "2024 - Present"
+          }
+        },
+        {
+          "name": "MRes Student",
+          "data": {
+            "name": "Mohammed Abusadeh (MSc)",
+            "period": "2024 - Present"
+          }
+        },
+        {
+          "name": "MRes Student",
+          "data": {
+            "name": "Ziye Chen (MSc)",
+            "period": "2024 - Present"
+          }
+        },
+        {
+          "name": "MRes Student",
+          "data": {
+            "name": "Wenhao Hong (MSc)",
+            "period": "2024 - Present"
+          }
+        },
+        {
+          "name": "MRes Student",
+          "data": {
+            "name": "Gurmeher Khurana(MSc)",
+            "period": "2024 - Present"
+          }
+        },
+        {
+          "name": "MRes Student",
+          "data": {
+            "name": "Virginia Greco (MSc)",
+            "period": "2024 - Present"
+          }
+        },
+        {
+          "name": "MRes Student",
+          "data": {
+            "name": "Yuexin Z Yao (MSc)",
+            "period": "2024 - Present"
+          }
+        },
+        {
+          "name": "MRes Student",
+          "data": {
+            "name": "Junjie Shen (MSc)",
+            "period": "2024 - Present"
+          }
+        },
+        {
+          "name": "MRes Student",
+          "data": {
+            "name": "Mengtong Xie (MSc)",
+            "period": "2024 - Present"
+          }
+        },
+        {
+          "name": "MRes Student",
+          "data": {
+            "name": "Haowei Gao (MSc)",
+            "period": "2024 - Present"
+          }
+        },
+        {
+          "name": "MRes Student",
+          "data": {
+            "name": "Linrui Du (MSc)",
+            "period": "2024 - Present"
+          }
+        },
+        {
+          "name": "MRes Student",
+          "data": {
+            "name": "Lyson Ober(MSc)",
             "period": "2024 - Present"
           }
         }
@@ -116,22 +231,43 @@
         {
           "name": "Alumni",
           "data": {
-            "name": "Dr. xxx",
-            "period": "2019 - 2023"
+            "name": "Yudong Mao (MSc)",
+            "period": "2023 - 2024"
           }
         },
         {
           "name": "Alumni",
           "data": {
-            "name": "Dr. xxx",
-            "period": "2020 - 2023"
+            "name": "Zhenyang Tao (MSc)",
+            "period": "2023 - 2024"
           }
         },
         {
           "name": "Alumni",
           "data": {
-            "name": "Dr. xxx",
-            "period": "2021 - 2023"
+            "name": "Louis Flinn (MSc)",
+            "period": "2023 - 2024"
+          }
+        },
+        {
+          "name": "Alumni",
+          "data": {
+            "name": "Zain Hasan (MSc)",
+            "period": "2023 - 2024"
+          }
+        },
+        {
+          "name": "Alumni",
+          "data": {
+            "name": "Julian Ing (MSc)",
+            "period": "2023 - 2024"
+          }
+        },
+        {
+          "name": "Alumni",
+          "data": {
+            "name": "D. Jaya Kumar Sivaraman (MSc)",
+            "period": "2023 - 2024"
           }
         }
       ]

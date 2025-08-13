@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Publications",
-    "description": "For a full list of our publications, please refer to my <a href='https://scholar.google.com/citations?user=233I39oAAAAJ&hl=en'>Google Scholar profile</a>.",
+    "description": "For a full list of our publications, please refer to the <a href='https://scholar.google.com/citations?user=233I39oAAAAJ&hl=en'>Google Scholar profile</a>.",
     "lastUpdated": "06-07-2025"
   },
   "sections": [
@@ -13,7 +13,7 @@
       "title": "Coarse-to-Fine Learning for Multi-Pipette Localisation in Robot-Assisted In Vivo Patch-Clamp",
       "year": "2025",
       "type": "Conference Paper",
-      "venue": "IROS 2025",
+      "venue": "IEEE IROS 2025",
       "authors": [
         "Lan Wei",
         "Gema Vera Gonzalez",
@@ -49,7 +49,7 @@
       "title": "A Dataset and Benchmarks for Deep Learning-Based Optical Microrobot Pose and Depth Perception",
       "year": "2025",
       "type": "Conference Paper",
-      "venue": "MARSS 2025",
+      "venue": "IEEE MARSS 2025",
       "authors": [
         "Lan Wei",
         "Dandan Zhang"
@@ -70,6 +70,443 @@
         {
           "type": "Project",
           "url": "https://lannwei.github.io/Optical-Microrobot-Database/"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "Magni-DOME: An Open Platform for High-Resolution Light-Based and Magnetic Contactless Fabrication of Active Microstructures",
+      "year": "2025",
+      "type": "Conference Paper",
+      "venue": "IEEE MARSS 2025",
+      "authors": [
+        "Nitirak Rayabphand",
+        "Neshika Wijewardhane",
+        "Norah-Jane Prendergast",
+        "James PK Armstrong",
+        "Dandan Zhang",
+        "Sabine Hauert"
+      ],
+      "keywords": [
+        "Magnetic Microrobot",
+        "Microrobot Fabrication"
+      ],
+      "links": [
+        {
+          "type": "PDF",
+          "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11072766"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "Interactive OT Gym: A Reinforcement Learning-Based Interactive Optical tweezer (OT)-Driven Microrobotics Simulation Platform",
+      "year": "2025",
+      "type": "Conference Paper",
+      "venue": "IEEE ICRA 2025",
+      "authors": [
+        "Zongcai Tan",
+        "Dandan Zhang"
+      ],
+      "keywords": [
+        "Optical Microrobot",
+        "Simulation",
+        "Reinforcement Learning"
+      ],
+      "links": [
+        {
+          "type": "PDF",
+          "url": "https://arxiv.org/pdf/2505.20751?"
+        }
+      ],
+      "videoId": "D3-lGa7MC3g",
+      "body": ""
+    },
+    {
+      "title": "Deep Reinforcement Learning-Based Semi-Autonomous Control for Magnetic Micro-robot Navigation with Immersive Manipulation",
+      "year": "2025",
+      "type": "Conference Paper",
+      "venue": "IEEE ICRA 2025",
+      "authors": [
+        "Yudong Mao",
+        "Dandan Zhang"
+      ],
+      "keywords": [
+        "Magnetic Microrobot",
+        "Control"
+      ],
+      "links": [
+        {
+          "type": "PDF",
+          "url": "https://arxiv.org/pdf/2503.06359"
+        }
+      ],
+      "videoId": "7-6FxLEkC_8",
+      "body": ""
+    },
+    {
+      "title": "A Digital Twin-Driven Immersive Teleoperation Framework for Robot-Assisted Microsurgery",
+      "year": "2024",
+      "type": "Conference Paper",
+      "venue": "IEEE IROS 2024",
+      "authors": [
+        "Peiyang Jiang",
+        "Dandan Zhang"
+      ],
+      "keywords": [
+        "Digital Twin",
+        "Microsurgery"
+      ],
+      "links": [
+        {
+          "type": "PDF",
+          "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10801954"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "Magnetic microrobots for in vivo cargo delivery: A review",
+      "year": "2024",
+      "type": "Journal Paper",
+      "venue": "Micromachines",
+      "authors": [
+        "Jialin Lin",
+        "Qingzheng Cong",
+        "Dandan Zhang"
+      ],
+      "keywords": [
+        "Magnetic Microrobot",
+        "in vivo"
+      ],
+      "links": [
+        {
+          "type": "PDF",
+          "url": "https://www.mdpi.com/2072-666X/15/5/664"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "Adaptive Motion Scaling for Robot-Assisted Microsurgery Based on Hybrid Offline Reinforcement Learning and Damping Control",
+      "year": "2024",
+      "type": "Conference Paper",
+      "venue": "IEEE ICRA 2024",
+      "authors": [
+        "Peiyang Jiang",
+        "Wei Li",
+        "Yifan Li",
+        "Dandan Zhang"
+      ],
+      "keywords": [
+        "Robot-Assisted Microsurgery",
+        "Reinforcement Learning"
+      ],
+      "links": [
+        {
+          "type": "PDF",
+          "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10611009"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "A versatile microchannel array device for portable and parallel droplet generation",
+      "year": "2024",
+      "type": "Journal Paper",
+      "venue": "Small Science",
+      "authors": [
+        "Zhengmin Tang",
+        "David Eun Reynolds",
+        "Caishu Lv",
+        "Dandan Zhang",
+        "Jina Ko",
+        "Yongcheng Wang"
+      ],
+      "keywords": [
+        "Microrobot",
+        "Droplet Generation"
+      ],
+      "links": [
+        {
+          "type": "PDF",
+          "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/smsc.202400005"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "Advanced medical micro-robotics for early diagnosis and therapeutic interventions",
+      "year": "2023",
+      "type": "Journal Paper",
+      "venue": "Frontiers in Robotics and AI",
+      "authors": [
+        "Dandan Zhang",
+        "Thomas E Gorochowski",
+        "Lucia Marucci",
+        "Hyun-Taek Lee",
+        "Bruno Gil",
+        "Bing Li",
+        "Sabine Hauert",
+        "Eric Yeatman"
+      ],
+      "keywords": [
+        "Microrobot",
+        "Medical",
+        "Review"
+      ],
+      "links": [
+        {
+          "type": "PDF",
+          "url": "https://www.frontiersin.org/articles/10.3389/frobt.2022.1086043/full"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "Fabrication and optical manipulation of micro-robots for biomedical applications",
+      "year": "2022",
+      "type": "Journal Paper",
+      "venue": "Matter",
+      "authors": [
+        "Dandan Zhang",
+        "Yunxiao Ren",
+        "Antoine Barbot",
+        "Florent Seichepine",
+        "Benny Lo",
+        "Zhuo-Chen Ma",
+        "Guang-Zhong Yang"
+      ],
+      "keywords": [
+        "Optical Microrobot",
+        "Fabrication"
+      ],
+      "links": [
+        {
+          "type": "PDF",
+          "url": "https://www.cell.com/matter/fulltext/S2590-2385(22)00402-7"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "From teleoperation to autonomous robot-assisted microsurgery: A survey",
+      "year": "2022",
+      "type": "Journal Paper",
+      "venue": "Machine Intelligence Research",
+      "authors": [
+        "Dandan Zhang",
+        "Weiyong Si",
+        "Wen Fan",
+        "Yuan Guan",
+        "Chenguang Yang"
+      ],
+      "keywords": [
+        "Microsurgery",
+        "Teleoperation",
+        "Review"
+      ],
+      "links": [
+        {
+          "type": "PDF",
+          "url": "https://link.springer.com/article/10.1007/s11633-022-1332-5"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "Machine learning-based real-time localization and automatic trapping of multiple microrobots in optical tweezer",
+      "year": "2022",
+      "type": "Conference Paper",
+      "venue": "IEEE MARSS 2022",
+      "authors": [
+        "Yunxiao Ren",
+        "Meysam Keshavarz",
+        "Salzitsa Anastasova",
+        "Ghazal Hatami",
+        "Benny Lo",
+        "Dandan Zhang"
+      ],
+      "keywords": [
+        "Optical Microrobot",
+        "Localization"
+      ],
+      "links": [
+        {
+          "type": "PDF",
+          "url": "https://ieeexplore.ieee.org/iel7/9870245/9870246/09870467.pdf"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "Micro-object pose estimation with sim-to-real transfer learning using small dataset",
+      "year": "2022",
+      "type": "Journal Paper",
+      "venue": "Communications Physics",
+      "authors": [
+        "Dandan Zhang",
+        "Antoine Barbot",
+        "Florent Seichepine",
+        "Frank P-W Lo",
+        "Wenjia Bai",
+        "Guang-Zhong Yang",
+        "Benny Lo"
+      ],
+      "keywords": [
+        "Optical Microrobot",
+        "Sim-to-Real",
+        "Pose Estimation"
+      ],
+      "links": [
+        {
+          "type": "PDF",
+          "url": "https://www.nature.com/articles/s42005-022-00844-z"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "Distributed force control for microrobot manipulation via planar multi‐spot optical tweezer",
+      "year": "2020",
+      "type": "Journal Paper",
+      "venue": "Advanced Optical Materials",
+      "authors": [
+        "Dandan Zhang",
+        "Antoine Barbot",
+        "Benny Lo",
+        "Guang‐Zhong Yang"
+      ],
+      "keywords": [
+        "Optical Microrobot",
+        "Control"
+      ],
+      "links": [
+        {
+          "type": "PDF",
+          "url": "https://advanced.onlinelibrary.wiley.com/doi/pdf/10.1002/adom.202000543"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "Data-driven microscopic pose and depth estimation for optical microrobot manipulation",
+      "year": "2020",
+      "type": "Journal Paper",
+      "venue": "ACS Photonics",
+      "authors": [
+        "Dandan Zhang",
+        "Frank P-W Lo",
+        "Jian-Qing Zheng",
+        "Wenjia Bai",
+        "Guang-Zhong Yang",
+        "Benny Lo"
+      ],
+      "keywords": [
+        "Optical Microrobot",
+        "Perception"
+      ],
+      "links": [
+        {
+          "type": "PDF",
+          "url": "https://core.ac.uk/download/pdf/424619168.pdf"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "Automatic microsurgical skill assessment based on cross-domain transfer learning",
+      "year": "2020",
+      "type": "Journal Paper",
+      "venue": "IEEE Robotics and Automation Letters",
+      "authors": [
+        "Dandan Zhang",
+        "Zicong Wu",
+        "Junhong Chen",
+        "Anzhu Gao",
+        "Xu Chen",
+        "Peichao Li",
+        "Zhaoyang Wang",
+        "Guitao Yang",
+        "Benny Lo",
+        " Guang-Zhong Yang"
+      ],
+      "keywords": [
+        "Microsurgical",
+        "Transfer Learning"
+      ],
+      "links": [
+        {
+          "type": "PDF",
+          "url": "https://ieeexplore.ieee.org/iel7/7083369/7339444/09072568.pdf"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "A microsurgical robot research platform for robot-assisted microsurgery research and training",
+      "year": "2020",
+      "type": "Journal Paper",
+      "venue": "International journal of computer assisted radiology and surgery",
+      "authors": [
+        "Dandan Zhang",
+        "Junhong Chen",
+        "Wei Li",
+        "Daniel Bautista Salinas",
+        "Guang-Zhong Yang"
+      ],
+      "keywords": [
+        "Mmicrosurgery",
+        "Robot-assisted"
+      ],
+      "links": [
+        {
+          "type": "PDF",
+          "url": "https://link.springer.com/article/10.1007/s11548-019-02074-1"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "A handheld master controller for robot-assisted microsurgery",
+      "year": "2019",
+      "type": "Conference Paper",
+      "venue": "IEEE IROS 2019",
+      "authors": [
+        "Dandan Zhang",
+        "Yao Guo",
+        "Junhong Chen",
+        "Jindong Liu",
+        "Guang-Zhong Yang"
+      ],
+      "keywords": [
+        "Microsurgery",
+        "Robot-assisted"
+      ],
+      "links": [
+        {
+          "type": "PDF",
+          "url": "https://ieeexplore.ieee.org/iel7/8957008/8967518/08967774.pdf"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "Towards Microrobot Out-of-Plane Control Via Planar Multi-Spot Optical Tweezer",
+      "year": "2019",
+      "type": "Conference Paper",
+      "venue": "IEEE MARSS 2019",
+      "authors": [
+        "Dandan Zhang"
+      ],
+      "keywords": [
+        "Microrobot",
+        "Control"
+      ],
+      "links": [
+        {
+          "type": "PDF",
+          "url": "https://research-information.bris.ac.uk/en/publications/towards-microrobot-out-of-plane-control-via-planar-multi-spot-opt"
         }
       ],
       "body": ""

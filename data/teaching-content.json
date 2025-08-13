@@ -9,19 +9,17 @@
         {
           "name": "Course",
           "data": {
-            "name": "Deep Learning",
-            "semester": "Fall 2024",
-            "audience": "Graduate students, Imperial College London",
-            "description": "xxx"
+            "name": "Mechanics and Electronics 1",
+            "semester": "Spring 2025",
+            "audience": "Undergraduate students, Imperial College London"
           }
         },
         {
           "name": "Course",
           "data": {
-            "name": "Mechanics and Electronics 1",
-            "semester": "Spring 2025",
-            "audience": "Undergraduate students, Imperial College London",
-            "description": "xxx"
+            "name": "Deep Learning",
+            "semester": "Fall 2024",
+            "audience": "Graduate students, Imperial College London"
           }
         }
       ]
@@ -33,8 +31,7 @@
           "data": {
             "name": "Biorobotics and Biosystems",
             "semester": "Spring 2023",
-            "audience": "Graduate students, University of Bristol",
-            "description": "xxx"
+            "audience": "Graduate students, University of Bristol"
           }
         }
       ]

@@ -1,21 +1,17 @@
 {
   "main": {
-    "url": "/msei_website/assets/group_photo/DSC03362.JPG",
+    "url": "/msei_website/assets/group_photo/group_photo.JPG",
     "date": "July 2025",
-    "location": "I-X"
+    "location": "I-X, Imperial College London"
   },
   "history": [
     {
-      "year": "2023",
-      "url": "/msei_website/assets/group_photo/group_photo_2023.jpg"
+      "year": "2024",
+      "url": "/msei_website/assets/group_photo/2024.jpeg"
     },
     {
-      "year": "2022",
-      "url": "/msei_website/assets/group_photo/group_photo_2022.jpg"
-    },
-    {
-      "year": "2021",
-      "url": "/msei_website/assets/group_photo/group_photo_2021.jpg"
+      "year": "2024",
+      "url": "/msei_website/assets/group_photo/2024-2.jpeg"
     }
   ],
   "description": "Our group photo records the growth and efforts of every member at Imperial College London."
