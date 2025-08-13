@@ -88,7 +88,7 @@
           "name": "News Item",
           "data": {
             "date": "04/2025",
-            "summary": "Two papers on microrobot perception accepted at MARSS’2025, one was nominated as the best student paper.",
+            "summary": "Two papers on microrobots were accepted at MARSS’2025, one won the best student paper with the highest score.",
             "links": [
               "PDF: https://arxiv.org/pdf/2505.18303",
               "Code: https://lannwei.github.io/Optical-Microrobot-Database/"
