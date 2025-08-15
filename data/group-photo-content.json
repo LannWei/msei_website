@@ -4,11 +4,20 @@
     {
       "year": "2025",
       "url": "/msei_website/assets/group_photo/group_photo.JPG",
-      "text": "Our group photo records the growth and efforts of every member at Imperial College London..",
+      "text": "Our group photo records the growth and efforts of every member at Imperial College London.",
       "date": "July 2025",
       "location": "I-X, Imperial College London",
       "photos": [
-        "/msei_website/assets/group_photo/2024.jpeg",
+        "/msei_website/assets/group_photo/2025-1.jpeg"
+      ]
+    },
+    {
+      "year": "2024",
+      "url": "/msei_website/assets/group_photo/2024.jpeg",
+      "text": "",
+      "date": "",
+      "location": "",
+      "photos": [
         "/msei_website/assets/group_photo/2024-2.jpeg"
       ]
     }
